@@ -5,22 +5,22 @@ Homework-1
 
 # 🖥️ Add Two Binary Strings (BIL458)
 
-##📌 Proje Açıklaması##
+*📌 Proje Açıklaması*
 
 Bu proje, iki binary (ikili) sayıyı toplamak için bir Java programı içerir. Kullanıcıdan alınan iki binary string toplandıktan sonra sonuç yine binary formatında ekrana yazdırılır.
 
 ---
 
-##🚀 Nasıl Derlenir ve Çalıştırılır?
+*🚀 Nasıl Derlenir ve Çalıştırılır?*
 Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz.
 
-*1️⃣ Java Dosyasını Derleme (Build)*
+**1️⃣ Java Dosyasını Derleme (Build)**
 
 Öncelikle, Java dosyasını derlemek için aşağıdaki komutu terminalde çalıştırın:
 
 **javac AddTwoBinaryStrings.java**
 
-*2️⃣ Programı Çalıştırma (Run)*
+**2️⃣ Programı Çalıştırma (Run)**
 
 Derleme tamamlandıktan sonra programı şu komut ile çalıştırabilirsiniz:
 
@@ -28,7 +28,7 @@ Derleme tamamlandıktan sonra programı şu komut ile çalıştırabilirsiniz:
 
 ---
 
-##📂 Proje Dosya Yapısı
+*📂 Proje Dosya Yapısı*
 
 📁 BIL458_addTwoBinaryStrings/
 
@@ -38,7 +38,7 @@ Derleme tamamlandıktan sonra programı şu komut ile çalıştırabilirsiniz:
 
 ---
 
-##💡 Örnek Kullanım
+*💡 Örnek Kullanım*
 
 Aşağıdaki örnekte "1101" ve "1011" binary (ikili) sayıları toplanmaktadır:
 
