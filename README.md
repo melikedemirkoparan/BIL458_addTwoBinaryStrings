@@ -5,7 +5,7 @@ Homework-1
 
 # 🖥️ Add Two Binary Strings (BIL458)
 
-##📌 Proje Açıklaması
+##📌 Proje Açıklaması##
 
 Bu proje, iki binary (ikili) sayıyı toplamak için bir Java programı içerir. Kullanıcıdan alınan iki binary string toplandıktan sonra sonuç yine binary formatında ekrana yazdırılır.
 
