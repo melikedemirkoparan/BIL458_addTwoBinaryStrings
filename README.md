@@ -33,12 +33,12 @@ Derleme tamamlandıktan sonra programı şu komut ile çalıştırabilirsiniz:
 📁 BIL458_addTwoBinaryStrings/
 
 ┣ 📜 AddTwoBinaryStrings.java → Binary toplama işlemini gerçekleştiren ana kod.
-
 ┣ 📜 README.md → Proje açıklamaları ve kullanım talimatları.
 
 ---
 
 💡 Örnek Kullanım
+
 Aşağıdaki örnekte "1101" ve "1011" binary (ikili) sayıları toplanmaktadır:
 
 Girdi:
