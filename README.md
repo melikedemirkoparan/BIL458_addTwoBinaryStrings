@@ -12,16 +12,19 @@ Bu proje, iki binary (ikili) sayıyı toplamak için bir Java programı içerir.
 ---
 
 🚀 Nasıl Derlenir ve Çalıştırılır?
-
 Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz.
 
 *1️⃣ Java Dosyasını Derleme (Build)*
+
 Öncelikle, Java dosyasını derlemek için aşağıdaki komutu terminalde çalıştırın:
-javac AddTwoBinaryStrings.java
+
+**javac AddTwoBinaryStrings.java**
 
 *2️⃣ Programı Çalıştırma (Run)*
+
 Derleme tamamlandıktan sonra programı şu komut ile çalıştırabilirsiniz:
-java AddTwoBinaryStrings
+
+**java AddTwoBinaryStrings**
 
 ---
 
