@@ -29,8 +29,11 @@ Derleme tamamlandıktan sonra programı şu komut ile çalıştırabilirsiniz:
 ---
 
 📂 Proje Dosya Yapısı
+
 📁 BIL458_addTwoBinaryStrings/
+
 ┣ 📜 AddTwoBinaryStrings.java → Binary toplama işlemini gerçekleştiren ana kod.
+
 ┣ 📜 README.md → Proje açıklamaları ve kullanım talimatları.
 
 ---
